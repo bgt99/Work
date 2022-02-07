@@ -50,6 +50,21 @@ ws['j2'].fill = PatternFill("solid", start_color="C4BD97")
 ws['k2'].fill = PatternFill("solid", start_color="C4BD97")
 ws['l2'].fill = PatternFill("solid", start_color="C4BD97")
 ws['m2'].fill = PatternFill("solid", start_color="C4BD97")
+
+ws['a3'].font = Font(bold=False)
+ws['b3'].font = Font(bold=False)
+ws['c3'].font = Font(bold=False)
+ws['d3'].font = Font(bold=False)
+ws['e3'].font = Font(bold=False)
+ws['f3'].font = Font(bold=False)
+ws['g3'].font = Font(bold=False)
+ws['h3'].font = Font(bold=False)
+ws['i3'].font = Font(bold=False)
+ws['j3'].font = Font(bold=False)
+ws['k3'].font = Font(bold=False)
+ws['l3'].font = Font(bold=False)
+ws['m3'].font = Font(bold=False)
+
 wb.save('TempCol2022012513200154_SUM_header.xlsx')
 
 # TempCol2022012513200154_SUM
